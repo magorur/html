@@ -1,0 +1,18 @@
+#resimler
+*.png
+*.jpg
+img/
+
+# videolar
+*.mp4
+videos/
+
+#paketler
+packages/
+
+# IDE - VSCode 
+.vscode/*
+
+# log
+*.log
+password.txt
